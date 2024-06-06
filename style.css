@@ -7,9 +7,7 @@ p{
 }
 body {
     color: navajowhite;
-    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
-button{
-    background-color: rgb(86, 55, 126);
-}
-  
